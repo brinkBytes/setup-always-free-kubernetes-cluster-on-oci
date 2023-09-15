@@ -842,3 +842,5 @@ error: Internal error occurred: error executing command in container: failed to 
 ```
 
 To solve this issue downgrade to k3s v1.23
+
+Test
